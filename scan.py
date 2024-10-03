@@ -1,7 +1,5 @@
 # /usr/bin/env Python3
 
-# Simple comment for show
-
 ## Imports
 import psutil
 import time
